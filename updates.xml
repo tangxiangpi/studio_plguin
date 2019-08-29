@@ -1,0 +1,36 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="emulator#28.0.25" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#7.3.2" />
+      <item value="system-images;android-21;google_apis;x86#29" />
+      <item value="system-images;android-25;google_apis;arm64-v8a#15" />
+      <item value="system-images;android-25;google_apis;armeabi-v7a#15" />
+      <item value="system-images;android-26;google_apis;x86#12" />
+      <item value="emulator#29.0.8" />
+      <item value="system-images;android-21;google_apis;x86#30" />
+      <item value="system-images;android-25;google_apis;arm64-v8a#16" />
+      <item value="system-images;android-25;google_apis;armeabi-v7a#16" />
+      <item value="system-images;android-26;google_apis;x86#13" />
+      <item value="emulator#29.0.11" />
+      <item value="extras;intel;Hardware_Accelerated_Execution_Manager#7.5.1" />
+      <item value="ndk-bundle#20.0.5594570" />
+      <item value="platform-tools#29.0.0" />
+      <item value="system-images;android-26;google_apis;x86#14" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-191.8026.42.35.5791312" />
+    <option name="LAST_TIME_CHECKED" value="1567070867421" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
